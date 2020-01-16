@@ -1,4 +1,4 @@
-# GWPROJECT1HSSM
+# Are Wildfires on RISE?
 Are Wildfires on RISE?
 
 To answer our research questions, we needed to find wildfire data that included the following criteria:
