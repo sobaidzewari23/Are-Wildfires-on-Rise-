@@ -1,5 +1,5 @@
-# Comprehensive wildfire data analysis to determine cause 
-Are Wildfires on RISE?
+# Are Wildfires on RISE? 
+Comprehensive wildfire data analysis to determine cause 
 
 To answer our research questions, we needed to find wildfire data that included the following criteria:
 At least 2 decades worth of data (more if possible). 
