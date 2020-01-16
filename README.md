@@ -1,4 +1,4 @@
-# Are Wildfires on RISE?
+# Comprehensive wildfire data analysis to determine cause 
 Are Wildfires on RISE?
 
 To answer our research questions, we needed to find wildfire data that included the following criteria:
